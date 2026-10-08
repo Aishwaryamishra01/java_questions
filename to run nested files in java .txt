@@ -1,0 +1,22 @@
+step 1. --> cd "C:\Users\Lenovo\Desktop\Java script"
+step 2. -->javac if_else\number_is_positive_negative_or_zero.java
+step 3. -->java if_else.number_is_positive_negative_or_zero
+
+ 
+
+mandatory --->    cd "C:\Users\Lenovo\Desktop\Java script" 
+
+
+javac folder name\java file name.java
+
+
+
+java folder name.java file name
+
+
+
+java if_else\triangle_type_on_basis_of_sides.java
+
+
+
+java if_else.trianle_type_on_basis_of_sides
