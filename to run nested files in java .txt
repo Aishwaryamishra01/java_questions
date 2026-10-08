@@ -14,7 +14,7 @@ javac folder name\java file name.java
 java folder name.java file name
 
 
-
+ex:-
 java if_else\triangle_type_on_basis_of_sides.java
 
 
